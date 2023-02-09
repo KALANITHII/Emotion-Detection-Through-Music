@@ -1,0 +1,16 @@
+data/X_train.npy
+data/X_test.npy
+data/y_train.npy
+data/y_test.npy
+.idea
+src/__pycache__
+MusicScrapper
+src/yolov5
+/src/yolov5/
+src/yolov5/__pycache__
+/src/yolov5/
+results/frames
+/src/yolov5/data/*.yaml
+/src/yolov5/data/*.jpg
+src/yolov5/data/coco.yaml
+src/yolov5/data/coco128.yaml
